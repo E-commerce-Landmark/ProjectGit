@@ -9,6 +9,7 @@
 5. Write down 5 SCM names?
 
 6. What is git Branch?
+   Git branch is a line of development in git
 
 7. What is git tag?
 

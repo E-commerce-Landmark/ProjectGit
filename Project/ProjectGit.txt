@@ -17,6 +17,7 @@
 9. When will you create a branch and when will you create a tag?
 
 10. What does “git add” command do?
+The git add command moves code or files of code from the working area to the staging area.
 
 11. What is the command to revert the code from staging area to working area?
 

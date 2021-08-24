@@ -2,7 +2,8 @@
 
 2. What is the difference between git and github?
 
-3. What is the meaning of DVCS?
+3. What is the meaning of DVCS? 
+   Distributed version control system
 
 4. What is the abbreviation of SCM?
 

@@ -11,6 +11,8 @@
 6. What is git Branch?
 
 7. What is git tag?
+   Tagging lets developers mark important checkpoints in the course of their projects' development. For instance, software release versions can be tagged. (Ex: v1.3.2) It essentially allows you to give a commit a special name(tag). Git tag is used to view all the created tags in alphabetical order.
+
 
 8. What is the difference between Branch and Tag in Git?
 

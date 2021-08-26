@@ -25,3 +25,7 @@
 12. What does git revert command achieve?
 
 13. What is the difference between git fetch and git pull?
+    git fetch will get the update from git remote repo and will update your local repo but will not merge with local repo while git pull will update from git remote repo and will update your local repo as well as merge with local working copy
+
+
+
